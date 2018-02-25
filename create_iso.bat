@@ -1,0 +1,1 @@
+CDIMAGE.EXE -h -j1 -oci -m -bmbr.bin ./iso out.iso
